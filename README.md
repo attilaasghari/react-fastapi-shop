@@ -21,6 +21,7 @@ An **online store** web application built with **React** (frontend) and **FastAP
   - [Running Locally](#running-locally)
   - [Building \& Deployment](#building--deployment)
   - [Usage](#usage)
+  - [Screenshots](#screenshots)
   - [Future Improvements](#future-improvements)
   - [License](#license)
   - [Contact](#contact)
@@ -165,7 +166,20 @@ Then configure serving of `frontend/dist` from backend or host elsewhere.
 * (If implemented) Place orders or simulate checkout
 
 ---
+## Screenshots
 
+Here are some screenshots of the React-FastAPI-Shop in action:
+
+![Screenshot 1](./screenshots/Screenshot-1.png)
+![Screenshot 2](./screenshots/Screenshot-2.png)
+![Screenshot 3](./screenshots/Screenshot-3.png)
+![Screenshot 4](./screenshots/Screenshot-4.png)
+![Screenshot 5](./screenshots/Screenshot-5.png)
+![Screenshot 6](./screenshots/Screenshot-6.png)
+![Screenshot 7](./screenshots/Screenshot-7.png)
+![Screenshot 8](./screenshots/Screenshot-8.png)
+
+---
 ## Future Improvements
 
 Here are some ideas for enhancements:
